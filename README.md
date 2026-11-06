@@ -1,6 +1,6 @@
 > [!NOTE]
 > **Legacy Project (Built in 2023 to learn React)**
-> This repository is kept public to demonstrate coding history and does not reflect my current architecture practices, coding standards, or production-level workflows. Check out [Modern-Project](URL_HERE) to see my latest work.
+> This repository is kept public to demonstrate coding history and does not reflect my current architecture practices, coding standards, or production-level workflows. Check out [New-Portfolio](https://github.com/Shevanka/portfolio) to see my latest work.
 
 # Azure Port
 
