@@ -1,6 +1,11 @@
+> [!NOTE]
+> **Legacy Project (Built in 2023 to learn React)**
+> This repository is kept public to demonstrate coding history and does not reflect my current architecture practices, coding standards, or production-level workflows. Check out [Modern-Project](URL_HERE) to see my latest work.
+
 # Azure Port
 
-Azure Port is a single-page portfolio web application built with React, TypeScript, Vite, Tailwind CSS, and shadcn/ui. It presents a modern personal portfolio experience with animated hero visuals, bilingual content, light/dark theme switching, featured projects, skills, and a contact section.
+**Azure Port** is a single-page portfolio web application built with React, TypeScript, Vite, Tailwind CSS, and shadcn/ui. It presents a modern personal portfolio experience featuring animated hero visuals, bilingual content, light/dark theme switching, featured projects, skills, and an interactive contact section.
+
 
 ## Features
 
